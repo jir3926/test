@@ -1,0 +1,10 @@
+C:\Users\nick\Desktop\排班系統\排班系統\bin\Debug\排班系統.exe.config
+C:\Users\nick\Desktop\排班系統\排班系統\bin\Debug\排班系統.exe
+C:\Users\nick\Desktop\排班系統\排班系統\bin\Debug\排班系統.pdb
+C:\Users\nick\Desktop\排班系統\排班系統\obj\Debug\排班系統.csprojAssemblyReference.cache
+C:\Users\nick\Desktop\排班系統\排班系統\obj\Debug\排班系統.Form1.resources
+C:\Users\nick\Desktop\排班系統\排班系統\obj\Debug\排班系統.Properties.Resources.resources
+C:\Users\nick\Desktop\排班系統\排班系統\obj\Debug\排班系統.csproj.GenerateResource.cache
+C:\Users\nick\Desktop\排班系統\排班系統\obj\Debug\排班系統.csproj.CoreCompileInputs.cache
+C:\Users\nick\Desktop\排班系統\排班系統\obj\Debug\排班系統.exe
+C:\Users\nick\Desktop\排班系統\排班系統\obj\Debug\排班系統.pdb
